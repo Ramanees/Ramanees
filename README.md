@@ -1,5 +1,5 @@
 <a href=""><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Ramaneeswar%TP%20" alt="Ramaneeswar TP" width="1500" /></a>
-<h3 align="center">Final Year Student | Tech Enthusiast | Aspiring Web Developer</h3>
+<h3 align="center">Final Year Student | Tech Enthusiast | Aspiring Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development+Enthusiast;Lifelong+Learner;Building+Tech+with+Purpose;&center=true&width=440&height=45">
