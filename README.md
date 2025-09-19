@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Student | Tech Enthusiast | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development+Enthusiast;Lifelong+Learner;Building+Tech+with+Purpose;&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+Enthusiast;Lifelong+Learner;Building+Tech+with+Purpose;&center=true&width=440&height=45">
 </p>
 
 ---
