@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Final year college student from Chennai  
-- 💻 Passionate about web development and building real-world tech solutions  
+- 💻 Passionate about development and building real-world tech solutions  
 - ✨ Constantly learning and exploring new technologies  
 - 📫 Reach me at: **ramanees123@gmail.com**
 
